@@ -1,7 +1,7 @@
 """Entry for make.fun: How Many Tabs Do You Have Open?
 
 One honest number, digits only: a count high enough to be a confession,
-specific enough to be true.
+specific enough to be true, and low enough to still be deniable.
 """
 import os
 
